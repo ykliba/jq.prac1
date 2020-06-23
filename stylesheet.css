@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+}
+
+.signin-btn {
+  height: 30px;
+  width: 100px;
+  background-color: aqua;
+  color: brown;
+  text-align: center;
+  line-height: 30px;
+  margin: 30px 30px; 
+}
+
+.signin-box {
+  list-style: none;
+  width: 360px;
+  height: 360px;
+  border: 1px solid;
+  margin-left: 30px;
+  padding: 50px 50px;
+  display: none;
+  background-color: lightblue;
+}
+
+.signin-title {
+ 
+}
+ .signin-form {
+   height: 50px;
+   width: 300px;
+   border: 1px solid;
+   margin-bottom: 10px;
+   
+ }
+
+ .back {
+  height: 30px;
+  width: 100px;
+  background-color: aqua;
+  color: brown;
+  text-align: center;
+  line-height: 30px;
+  margin: 30px 30px; 
+ }
+
+.food {
+  display: flex;
+}
+
+.menu {
+  width: 100px;
+  height: 100px;
+  background-color: lightsalmon;
+  margin-left: 30px;
+}
+
+.dis {
+  /* display: none; */
+}

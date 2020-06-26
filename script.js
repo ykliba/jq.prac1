@@ -1,9 +1,9 @@
 $(function() {
   $('.signin-btn').click(function() {
-    $('.signin-box').slideDown();
+    $('.signin-box').fadeIn();
   });
   $('.back').click(function() {
-    $('.signin-box').slideUp();
+    $('.signin-box').fadeOut();
   });
 
   $('.food').hover(
